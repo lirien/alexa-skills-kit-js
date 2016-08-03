@@ -1,0 +1,8 @@
+GetNewFactIntent a fortune
+GetNewFactIntent tell me a fortune
+GetNewFactIntent give me a fortune
+GetNewFactIntent tell me my future
+GetNewFactIntent give me my future
+GetNewFactIntent give me some information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
