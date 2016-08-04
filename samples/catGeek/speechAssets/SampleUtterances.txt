@@ -6,6 +6,7 @@ GetNewFactIntent give me a fact
 GetNewFactIntent give me a cat fact
 GetNewFactIntent tell me trivia
 GetNewFactIntent tell me a cat trivia
+GetNewFactIntent tell me cat trivia
 GetNewFactIntent give me trivia
 GetNewFactIntent give me a cat trivia
 GetNewFactIntent give me some information
